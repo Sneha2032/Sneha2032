@@ -1,4 +1,4 @@
-![image](https://github.com/Sneha2032/Sneha2032/assets/161987474/c7474ec5-2d2d-42c1-add8-fc6bc0ac091f)- 👋 Hi, I’m @Sneha2032
+👋 Hi, I’m @Sneha2032
 - My name is sneha Mishra . Currently pursuing btech from IIEST Shibpur.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning javascript,css and html.
