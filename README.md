@@ -1,7 +1,7 @@
 👋 Hi, I’m @Sneha2032
 - My name is sneha Mishra . Currently pursuing btech from IIEST Shibpur.
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning javascript,css and html.
+- 🌱 I’m currently learning MERN Stack as a full stack web developer.
 
 - 📫 How to reach me - here is my linked in profile- http://www.linkedin.com/in/snehamishra2019
 
